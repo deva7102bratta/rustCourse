@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/mybrowser/target/debug/mybrowser: /data/data/com.termux/files/home/mybrowser/src/area.rs /data/data/com.termux/files/home/mybrowser/src/celsius_to_fahrenheit.rs /data/data/com.termux/files/home/mybrowser/src/main.rs /data/data/com.termux/files/home/mybrowser/src/number_analyser.rs
